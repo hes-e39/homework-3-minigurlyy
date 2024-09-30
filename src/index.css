@@ -17,3 +17,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}

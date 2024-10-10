@@ -1,5 +1,9 @@
 import colors from './colors.json';
 
+/**
+ * Adding a comment to add feedback
+ */
+
 function App() {
     return (
         <div className="app">
